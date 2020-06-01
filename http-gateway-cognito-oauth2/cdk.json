@@ -1,0 +1,16 @@
+{
+  "app": "npx ts-node bin/init.ts",
+  "context": {
+    "aws-cdk:enableDiffNoFail": "true",
+    "stack_tags": {
+      "Application": "http-gateway-cognito-oauth2",
+      "Owner": "vlsidlyarevich@gmail.com"
+    },
+    "aws_env_details": {
+      "dev": {
+        "region": "eu-west-2",
+        "account": "979334860277"
+      }
+    }
+  }
+}
