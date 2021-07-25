@@ -1,4 +1,4 @@
-#HTTP Gateway Cognito Oauth 2.0  
+# HTTP Gateway Cognito Oauth 2.0  
 Aws cdk scripts for HTTP Gateway with cognito-based oauth 2.0 auth 
 
 ## Prerequisites
